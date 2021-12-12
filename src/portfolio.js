@@ -62,6 +62,10 @@ export const skillsSection = {
       fontAwesomeClassname: "logos:nodejs-icon",
     },
     {
+      skillName: "vuejs",
+      fontAwesomeClassname: "logos:vue",
+    },
+    {
       skillName: "npm",
       fontAwesomeClassname: "vscode-icons:file-type-npm",
     },
@@ -83,6 +87,10 @@ export const SkillBars = [
   },
   {
     Stack: "React",
+    progressPercentage: "85",
+  },
+  {
+    Stack: "Vuejs",
     progressPercentage: "85",
   },
   {
@@ -142,5 +150,9 @@ export const projects = [
   {
     name: "Content Management System",
     desc: "In this Project, I worked as a Front-End Developer. The Tech Stack used in this project is ReactJs, Redux, Antd, React-Routers and for Backend I used NodeJs with MongoDB",
+  },
+  {
+    name: "HR Management System",
+    desc: "In this Project, I worked as a Front-End Developer. The Tech Stack used in this project is Vuejs, Vuex, Element UI, Vue Router. This project has both Employee and HR roles. It contain Attendnace Management, Leave Management, Reimbursement Management and many more...",
   },
 ];
