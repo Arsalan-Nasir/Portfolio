@@ -6,7 +6,7 @@ export const greetings = {
   name: "Arsalan Ahmed Nasir",
   title: "Hi, I'm Arsalan Ahmed Nasir",
   description:
-    "A passionate Full Stack Web Developer and Mobile App Developer having experience building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
+    "A passionate Full Stack Web Developer and Mobile App Developer having experience building Web applications with JavaScript / Reactjs / Vuejs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
 };
 
 export const openSource = {
