@@ -6,7 +6,7 @@ export const greetings = {
   name: "Arsalan Ahmed Nasir",
   title: "Hi, I'm Arsalan Ahmed Nasir",
   description:
-    "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
+    "A passionate Full Stack Web Developer and Mobile App Developer having experience building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
 };
 
 export const openSource = {
@@ -98,16 +98,8 @@ export const SkillBars = [
     progressPercentage: "85",
   },
   {
-    Stack: "Frontend Development",
-    progressPercentage: "90",
-  },
-  {
-    Stack: "Backend",
-    progressPercentage: "50",
-  },
-  {
-    Stack: "Programming",
-    progressPercentage: "70",
+    Stack: "Node",
+    progressPercentage: "30",
   },
 ];
 
