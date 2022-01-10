@@ -145,6 +145,6 @@ export const projects = [
   },
   {
     name: "HR Management System",
-    desc: "In this Project, I worked as a Front-End Developer. The Tech Stack used in this project is Vuejs, Vuex, Element UI, Vue Router. This project has both Employee and HR roles. It contain Attendnace Management, Leave Management, Reimbursement Management and many more...",
+    desc: "In this Project, I worked as a Front-End Developer. The Tech Stack used in this project is Vuejs, Vuex, Element UI, Vue Router. This project has both Employee and HR roles. It contain Attendance Management, Leave Management, Reimbursement Management and many more...",
   },
 ];
