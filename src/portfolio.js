@@ -6,7 +6,7 @@ export const greetings = {
   name: "Arsalan Ahmed Nasir",
   title: "Hi, I'm Arsalan Ahmed Nasir",
   description:
-    "A passionate Full Stack Web Developer and Mobile App Developer having experience building Web applications with JavaScript / Reactjs / Vuejs / Nodejs  and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
+    "A passionate Full Stack Web Developer and Mobile App Developer having experience building Web applications with JavaScript / TypeScript / Reactjs / Vuejs / Nextjs / Nodejs / Nestjs  and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
 };
 
 export const openSource = {
@@ -86,8 +86,16 @@ export const SkillBars = [
     progressPercentage: "90",
   },
   {
+    Stack: "TypeScript",
+    progressPercentage: "75",
+  },
+  {
     Stack: "React",
     progressPercentage: "85",
+  },
+  {
+    Stack: "Nextjs",
+    progressPercentage: "60",
   },
   {
     Stack: "Vuejs",
@@ -99,7 +107,11 @@ export const SkillBars = [
   },
   {
     Stack: "Node",
-    progressPercentage: "30",
+    progressPercentage: "70",
+  },
+  {
+    Stack: "Nestjs",
+    progressPercentage: "60",
   },
 ];
 
@@ -115,22 +127,37 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: "Software Enginner - Javascript",
+    role: "Senior Software Enginner",
     company: "Nisum",
     companylogo: nisum,
-    date: "March 2020 – Present",
-    desc: "Currently I am a full time JavaScript Developer at Nisum. I worked for many Local and Internationl Clients.",
+    date: "April 2024 – Present",
+    // desc: "Currently I am as a Senior Software Engineer at Nisum",
   },
   {
-    role: "Internship",
+    role: "Software Enginner",
+    company: "Nisum",
+    companylogo: nisum,
+    date: "March 2020 – April 2024",
+    // desc: "I worked as a Software Engineer at Nisum. I worked for many Local and Internationl Clients.",
+  },
+  {
+    role: "Software Enginner Intern",
     company: "Nisum",
     companylogo: nisum,
     date: "Dec 2019 – March 2020",
-    desc: "In my Internship period, I learned JavaScript, React, Redux, Nodejs and Problem Solving skills. I also learn how to work in a team and play your role as a Team Player.",
+    // desc: "In my Internship period, I learned JavaScript, React, Redux, Nodejs and Problem Solving skills. I also learn how to work in a team and play your role as a Team Player.",
   },
 ];
 
 export const projects = [
+  {
+    name: "Science37",
+    desc: "In this Project, I worked as a Front-End Developer. The Tech Stack used in this project is React, Redux, Redux Toolkit, Observables. This Project is currently live, you can have a look by clicking below.",
+    link: {
+      name: "Science37",
+      url: "https://www.science37.com",
+    },
+  },
   {
     name: "Baitussalam Mobile Application",
     desc: "In this Project, I worked as a Front-End Developer. The Tech Stack used in this project is React-Native, Redux, React-Native Navigation, Antd. This Project is currently live, you can have a look by clicking below.",
